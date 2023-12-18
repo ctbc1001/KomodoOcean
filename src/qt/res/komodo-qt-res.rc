@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/komodo.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/CT40.ico"
 IDI_ICON2 ICON DISCARDABLE "icons/komodo_testnet.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
