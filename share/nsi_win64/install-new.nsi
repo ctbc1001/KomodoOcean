@@ -6,7 +6,7 @@ Name "KomodoOcean (Komodo-Qt)"
 OutFile "komodo-qt-install.exe"
 RequestExecutionLevel admin
 InstallDir "$PROGRAMFILES64\KomodoOcean"
-Icon "komodo.ico"
+Icon "CT40.ico"
 CRCCheck on
 
 ; Includes
