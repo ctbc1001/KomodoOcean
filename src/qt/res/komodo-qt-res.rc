@@ -21,7 +21,7 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "Komodo"
-            VALUE "FileDescription",    PACKAGE_NAME " (GUI node for Komodo)"
+            VALUE "FileDescription",    PACKAGE_NAME " (GUI node for CT40)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "KomodoOceanGUI"
             VALUE "LegalCopyright",     COPYRIGHT_STR
