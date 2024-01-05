@@ -4,6 +4,8 @@
 
 ![](./doc/images/komodo-qt-promo-2020-01.jpg)
 ![](.//src/qt/res/icons/CT40.png)
+CT40Coin uses Komodo Platform.
+KomodoOcean has been modified to run parameters for CT40Coin
 
 Komodo-Qt (KomodoOcean) is a world-first Qt native wallet for KMD ([Komodo](https://komodoplatform.com/)) and smartchains (assetchains). It's available for three OS platforms - Windows, Linux, MacOS.
 
